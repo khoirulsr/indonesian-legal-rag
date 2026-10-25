@@ -1,0 +1,6 @@
+# Dipakai Streamlit Cloud (aplikasi web). Sengaja TANPA chromadb agar deploy ringan dan bebas masalah sqlite3.
+streamlit
+numpy
+python-dotenv
+langchain-core
+langchain-google-genai

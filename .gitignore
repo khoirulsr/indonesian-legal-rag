@@ -1,0 +1,9 @@
+.env
+.streamlit/secrets.toml
+chroma_db/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+# Folder index/ SENGAJA tidak diabaikan: dibutuhkan aplikasi web.

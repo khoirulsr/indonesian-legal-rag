@@ -1,0 +1,9 @@
+# Memaksa tema terang untuk SEMUA pengunjung (juga di Streamlit Cloud), supaya warna teks
+# tidak berubah mengikuti dark mode perangkat. File ini ikut di-commit ke GitHub.
+[theme]
+base = "light"
+primaryColor = "#2563EB"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#EEF2F7"
+textColor = "#0F172A"
+font = "sans serif"

@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Apa yang dimaksud dengan data pribadi?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "1",
+    "kata_kunci_awal": "data pribadi adalah"
+  },
+  {
+    "question": "Data apa saja yang tergolong data pribadi yang bersifat spesifik?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "4",
+    "kata_kunci_awal": "bersifat spesifik"
+  },
+  {
+    "question": "Apakah saya boleh meminta salinan data pribadi saya yang dipegang suatu perusahaan?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "7",
+    "kata_kunci_awal": "salinan"
+  },
+  {
+    "question": "Bagaimana cara saya mencabut persetujuan atas pemrosesan data pribadi saya?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "9",
+    "kata_kunci_awal": "menarik kembali"
+  },
+  {
+    "question": "Dalam berapa lama pengendali data wajib memberi tahu pemilik data jika terjadi kebocoran data?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "16",
+    "kata_kunci_awal": "kegagalan pelindungan"
+  },
+  {
+    "question": "Kapan sebuah organisasi wajib menunjuk pejabat khusus yang mengurus pelindungan data pribadi?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "53",
+    "kata_kunci_awal": "pejabat atau petugas"
+  },
+  {
+    "question": "Apa syarat untuk mengirim data pribadi ke luar wilayah Indonesia?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "56",
+    "kata_kunci_awal": "luar wilayah"
+  },
+  {
+    "question": "Apa hukuman bagi orang yang dengan sengaja menjual data pribadi milik orang lain?",
+    "source": "UU 27/2022 (PDP)",
+    "pasal": "57",
+    "kata_kunci_awal": "menjual"
+  },
+  {
+    "question": "Apa saja hak yang dimiliki konsumen?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "4",
+    "kata_kunci_awal": "hak konsumen adalah"
+  },
+  {
+    "question": "Apa saja kewajiban seorang konsumen?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "5",
+    "kata_kunci_awal": "kewajiban konsumen adalah"
+  },
+  {
+    "question": "Apa saja kewajiban pelaku usaha?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "7",
+    "kata_kunci_awal": "kewajiban pelaku usaha adalah"
+  },
+  {
+    "question": "Perbuatan apa yang dilarang bagi pelaku usaha dalam memproduksi atau memperdagangkan barang?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "8",
+    "kata_kunci_awal": "dilarang memproduksi"
+  },
+  {
+    "question": "Jika barang yang saya beli merugikan saya, apakah pelaku usaha wajib mengganti kerugian?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "10",
+    "kata_kunci_awal": "ganti rugi"
+  },
+  {
+    "question": "Apa itu klausula baku dan apa yang dilarang dicantumkan di dalamnya?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "18",
+    "kata_kunci_awal": "klausula baku"
+  },
+  {
+    "question": "Apa tugas lembaga yang mengawasi perlindungan konsumen di tingkat nasional?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": ["31","32","33","34"],
+    "kata_kunci_awal": "badan perlindungan konsumen nasional"
+  },
+  {
+    "question": "Apa ancaman pidana bagi pelaku usaha yang melanggar ketentuan perlindungan konsumen?",
+    "source": "UU 8/1999 (Perlindungan Konsumen)",
+    "pasal": "62",
+    "kata_kunci_awal": "pidana penjara"
+  }
+]

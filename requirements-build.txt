@@ -1,0 +1,5 @@
+# Untuk komputer lokal (membangun indeks): pip install -r requirements-build.txt
+-r requirements.txt
+pypdf
+chromadb
+langchain-community

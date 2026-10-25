@@ -2,7 +2,7 @@
 
 Asisten tanya-jawab yang menjawab **hanya dari teks undang-undang**, lengkap dengan sitasi Pasal. Dokumen yang dipakai: **UU No. 27/2022 (Pelindungan Data Pribadi)** dan **UU No. 8/1999 (Perlindungan Konsumen)**.
 
-🔗 **Demo:** `ISI_LINK_STREAMLIT`
+🔗 **Demo:** https://indonesian-legal-rag-ijtyrsv5mtztfj2shl6bbq.streamlit.app/
 
 [Demo](docs/demo.png)
 
